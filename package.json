@@ -1,0 +1,23 @@
+{
+  "name": "log4js_content_filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiyunchao/log4js_content_filter.git"
+  },
+  "keywords": [],
+  "author": "daiyunchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiyunchao/log4js_content_filter/issues"
+  },
+  "homepage": "https://github.com/daiyunchao/log4js_content_filter#readme",
+  "dependencies": {
+    "log4js": "^6.3.0"
+  }
+}
